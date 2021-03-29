@@ -1,6 +1,7 @@
-# progetti
+# progetti   #projects
 
 /** 
+    
     I am a boy who studies computer science at the university of Naples Parthenope.
     These are projects that have been assigned to me in the first semester of programming 1. I
     had so many difficulties because I had never programmed before and I am proud of myself.
