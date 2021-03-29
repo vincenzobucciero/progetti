@@ -1,19 +1,19 @@
-/*  Algoritmo per la simulazione di dinamica di ‘cellule’
-    Si consideri un array 2D 40x40. Ogni elemento dell’array è detto ‘cellula’. Una
-    cellula può essere bianca o nera. Una cellula bianca viene visualizzata con uno spazio
-    (blank ‘ ‘), una cellula nera con ‘X’. All’inizio vi è solo una cellula nera, al 60-simo
-    posto della prima riga; tutte le altre cellule sono bianche. Sviluppare un algoritmo
-    iterativo che, a partire dalla prima riga, a ogni passo aggiorna una sola riga
-    dell’array, ovvero al secondo passo aggiorna la seconda riga, al terzo passo aggiorna
-    la terza riga e così via, fino all’ultima riga. Al passo i-simo, la riga i-sima viene
-    aggiornata considerando solo la riga (i-1)-sima, secondo la seguente regola:
-    la cellula j della riga i-sima diventa nera se:
-      a. nella riga (i-1)-sima la cellula j e la cellula j-1 sono nere e la cellula j+1 è
-      bianca;
-      b. nella riga (i-1)-sima le cellule j-1 e j+1 sono nere e la cellula j è bianca;
-      c. nella riga (i-1)-sima la cellula j e la cellula j+1 sono nere e la cellula j-1 è
-      bianca;
-      d. nella riga (i-1)-sima la cellula j è nera e le cellule j+1 e j-1 sono bianche;
-      e. nella riga (i-1)-sima la cellula j+1 è nera e le cellule j e j-1 sono bianche.
-    Visualizzare tutto l’array sia dopo il quarto passo, sia dopo l’ottavo passo, sia dopo il
-    16-simo, il 32-simo, il 40-simo passo.  */
+/*  Algorithm for simulating the dynamics of 'cells'
+    Consider a 2D 40x40 array. Each element of the array is called a 'cell'. A
+    cell can be white or black. A white cell is displayed with a space
+    (blank ' '), a black cell with 'X'. At the beginning there is only one black cell, at the 60th
+    place of the first line; all other cells are white. Develop an algorithm
+    iterative which, starting from the first line, updates a single line at each step
+    of the array, or in the second step it updates the second row, in the third step it updates
+    the third line and so on, up to the last line. At the i-th step, the i-th line comes
+    updated considering only row (i-1) -sima, according to the following rule:
+    cell j of the i-th row turns black if:
+      to. in row (i-1) -sima cell j and cell j-1 are black and cell j + 1 is
+      white;
+      b. in row (i-1) -sima cells j-1 and j + 1 are black and cell j is white;
+      c. in row (i-1) -sima cell j and cell j + 1 are black and cell j-1 is
+      white;
+      d. in row (i-1) -sima cell j is black and cells j + 1 and j-1 are white;
+      e. in row (i-1) -sima cell j + 1 is black and cells j and j-1 are white.
+    View the entire array both after the fourth step, both after the eighth step, and after the
+    16th, 32nd, 40th step.  */
