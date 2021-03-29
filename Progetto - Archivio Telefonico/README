@@ -1,0 +1,13 @@
+/*  Gestione archivio telefonico
+    Si vuole simulare l’archivio telefonico di un cellulare. Ogni nominativo è identificato
+    dal Cognome, Nome, numero telefonico. Provvedere all’implementazione
+    dell’algoritmo per la simulazione dell’archivio telefonico (massimo 30 nominativi).
+    Permettere, inoltre, all’utente di
+      • Inserire o cancellare un nominativo
+      • Dato il Cognome e il Nome di un utente visualizzare il numero telefonico
+      corrispondente (effettuare una ricerca binaria ricorsiva)
+      • Dato un numero telefonico vedere il numero totale di chiamate da e verso
+      quel numero
+    L’archivio può anche essere inizializzato con informazioni casuali. Effettuare almeno
+    due test per ognuna delle opzioni dell’utente.  */
+    
