@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1609864269 source:c:\users\admin\desktop\esercizi programm. i e lab. di programm. i\pr_gestione_archivio_telefonico\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1609864269 c:\users\admin\desktop\esercizi programm. i e lab. di programm. i\pr_gestione_archivio_telefonico\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1609864269 source:c:\users\admin\desktop\esercizi programm. i e lab. di programm. i\pr_gestione_archivio_telefonico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1610316108 source:c:\users\admin\desktop\relazione_buciero_vincenzo\c\progetto - archivio telefonico\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1609864269 c:\users\admin\desktop\relazione_buciero_vincenzo\c\progetto - archivio telefonico\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1610316108 source:c:\users\admin\desktop\relazione_bucciero_vincenzo\c\progetto - archivio telefonico\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1609864269 c:\users\admin\desktop\relazione_bucciero_vincenzo\c\progetto - archivio telefonico\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1610361251 source:c:\users\admin\desktop\relazione_bucciero_vincenzo\c\progetto - archivio telefonico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
