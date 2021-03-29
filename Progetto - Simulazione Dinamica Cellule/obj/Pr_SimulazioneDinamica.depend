@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1610052599 source:c:\users\admin\desktop\esercizi programm. i e lab. di programm. i\parapapa\function.c
+	"header.h"
+
+1610052427 c:\users\admin\desktop\esercizi programm. i e lab. di programm. i\parapapa\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1610052464 source:c:\users\admin\desktop\esercizi programm. i e lab. di programm. i\parapapa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1610319162 source:c:\users\admin\desktop\pr_simulazionedinamica\function.c
+	"header.h"
+
+1610318039 c:\users\admin\desktop\pr_simulazionedinamica\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1610320453 source:c:\users\admin\desktop\pr_simulazionedinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1610807859 source:c:\users\admin\desktop\relazione_bucciero_vincenzo\c\progetto - simulazione dinamica cellule\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1610318039 c:\users\admin\desktop\relazione_bucciero_vincenzo\c\progetto - simulazione dinamica cellule\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1610806317 source:c:\users\admin\desktop\relazione_bucciero_vincenzo\c\progetto - simulazione dinamica cellule\function.c
+	"header.h"
+
